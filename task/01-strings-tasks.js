@@ -20,7 +20,7 @@
  *   '',  'bb'  => 'bb'
  */
 function concatenateStrings(value1, value2) {
-  return value1 + value2; //task__1
+  return value1 + value2; //it's work
 }
 
 /**
