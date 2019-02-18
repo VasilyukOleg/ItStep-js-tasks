@@ -35,7 +35,7 @@ function concatenateStrings(value1, value2) {
  *   ''      => 0
  */
 function getStringLength(value) {
-  return value.length; //get length string
+  return value.length; //get length string222
 }
 
 /**
